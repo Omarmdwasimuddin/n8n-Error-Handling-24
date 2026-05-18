@@ -86,6 +86,14 @@ IF Condition
 
 - **"Execute step"** এ ক্লিক করো
 
+> 🔴 **গুরুত্বপূর্ণ — On Error: Continue সেট করো**
+> Create a row Node এর **Settings** Tab এ যাও → **"On Error"** Option টি **`Continue`** সিলেক্ট করো।
+> এটা না করলে Error হলে Workflow সম্পূর্ণ বন্ধ হয়ে যাবে — IF Node পর্যন্ত পৌঁছাবে না।
+
+```
+Create a row → Settings Tab → On Error → Continue ✅
+```
+
 ---
 
 ## 🔀 IF Condition সেটআপ
