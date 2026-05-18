@@ -13,3 +13,5 @@
 
 #### if er false e +sign click koro--->search & click: gmail--->click: send a message--->Send a message er nam change kore Success daw & value set koro.
 #### if er true e +sign click koro--->search & click: gmail--->click: send a message--->Send a message er nam change kore Failed daw & value set koro.
+
+#### google sheets e value add kore execute workflow te click koro--->jodi same email ekadik thake tahole error hobe & failed e message jabe ar jodi unique email hoi tahole success e message jabe.
